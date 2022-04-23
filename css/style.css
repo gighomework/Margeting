@@ -1,0 +1,40 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+.gradient {
+        background: linear-gradient(89deg, #000000 0%, #ffdd00 50%, #000000 100%);
+      }
+      h1 {
+  font-size: 20px;
+  background: -webkit-linear-gradient(60deg,#000000 0%, #ff0000 50%, #000000 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+p{
+  font-size: 15px;
+  background: -webkit-linear-gradient(70deg,#fff, #0000ff, #000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding: 7px;
+}
+.ben-gd{
+    background: -webkit-linear-gradient(30deg,#ff5500, #ffffff50, #0000dd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+
+.be{
+    border-radius: 20%;
+    height: 200px;
+    width: 300px ;
+    margin-bottom: 20px;
+}
+.thai{
+    background: rgb(255,0,38);
+background: -moz-linear-gradient(0deg, rgba(255,0,38,1) 23%, rgba(255,255,255,1) 39%, rgba(0,7,255,1) 56%, rgba(252,252,255,1) 75%, rgba(255,0,29,1) 91%);
+background: -webkit-linear-gradient(0deg, rgba(255,0,38,1) 23%, rgba(255,255,255,1) 39%, rgba(0,7,255,1) 56%, rgba(252,252,255,1) 75%, rgba(255,0,29,1) 91%);
+background: linear-gradient(0deg, rgba(255,0,38,1) 23%, rgba(255,255,255,1) 39%, rgba(0,7,255,1) 56%, rgba(252,252,255,1) 75%, rgba(255,0,29,1) 91%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0026",endColorstr="#ff001d",GradientType=1);
+}
+.yellow{
+    background: #ffdd00;
+    color:#0023FF;
+}
